@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hai this is naga
 
 thursday
+=======
+hai this is nagaraju
+>>>>>>> b55f2eb1fa112866aec276ae85438462e41ffff4
